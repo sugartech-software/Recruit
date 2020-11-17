@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 465c80e7f58a9d349bf12f39b216fecd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HK Nova
+  fontNames:
+  - HK Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c977370e5854644a80fa30febe63e25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera
+  - Canvas
+  - Product
+  - ProductPart
+  - Wall
+  - Floor
+  - Ceil
+  - Door
+  - Window
+  - Selection
+  - SceneItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Flat
+  - Object
+  - BigRoom
+  - SmallRoom
+  - ProductButton
+  - FloorButton
+  - WallButton
+  - Move
+  - Rotate
+  - CameraGroup
+  - Wall
+  - Camera
+  - MainCamera
+  - SceneItem
+  - Selection
+  - ObjectPart
+  - Point2D
+  - Line2D
+  - Text2D
+  - Poly2D
+  - Window2D
+  - Door2D
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
